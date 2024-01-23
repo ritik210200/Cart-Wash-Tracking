@@ -1,0 +1,7 @@
+
+17:01 08/01/2018 Failed to send MailBot Report
+17:02 08/01/2018 Loaded Oracle Driver
+17:02 08/01/2018 Connected to DataBase
+17:02 08/01/2018 Error Code 008 - Error sending emails
+17:02 08/01/2018 No recipient addresses
+17:02 08/01/2018 Failed to send MailBot Report

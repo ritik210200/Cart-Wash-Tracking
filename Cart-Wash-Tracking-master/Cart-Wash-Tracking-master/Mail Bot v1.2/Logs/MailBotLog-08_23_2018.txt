@@ -1,0 +1,18 @@
+
+15:56 08/23/2018 Loaded Oracle Driver
+15:56 08/23/2018 Error Code 002 - Connection to DB failed
+15:56 08/23/2018 No suitable driver found for 
+15:58 08/23/2018 Loaded Oracle Driver
+15:58 08/23/2018 Error Code 002 - Connection to DB failed
+15:58 08/23/2018 No suitable driver found for 
+15:59 08/23/2018 Loaded Oracle Driver
+15:59 08/23/2018 Error Code 002 - Connection to DB failed
+15:59 08/23/2018 No suitable driver found for 
+16:00 08/23/2018 Loaded Oracle Driver
+16:00 08/23/2018 Error Code 002 - Connection to DB failed
+16:00 08/23/2018 No suitable driver found for 
+16:01 08/23/2018 Loaded Oracle Driver
+16:01 08/23/2018 Connected to DataBase
+16:01 08/23/2018 Error Code 008 - Error sending emails
+16:01 08/23/2018 No recipient addresses
+16:01 08/23/2018 Failed to send MailBot Report

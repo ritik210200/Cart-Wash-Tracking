@@ -1,0 +1,8 @@
+##########################
+# Mail Bot Configuration #
+##########################
+# The values in this file will configure the Mail Bot connection to the Oracle DB
+#
+CONNECTION STRING = "Oracle Database Connection STR here"
+Oracle DataBase User = "user"
+Oracle DataBase Pass = "pass"

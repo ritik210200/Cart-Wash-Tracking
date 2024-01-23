@@ -1,0 +1,33 @@
+
+15:25 08/23/2018 NOW RUNNING CWT v1.3
+15:25 08/23/2018 CWT_Config.txt (The system cannot find the file specified)
+15:25 08/23/2018 Oracle DB driver found
+15:25 08/23/2018 Error Code 002 - Connection to DB failed
+15:25 08/23/2018 No suitable driver found for 
+15:26 08/23/2018 NOW RUNNING CWT v1.3
+15:26 08/23/2018 String index out of range: 1
+15:26 08/23/2018 Oracle DB driver found
+15:26 08/23/2018 Error Code 002 - Connection to DB failed
+15:26 08/23/2018 No suitable driver found for 
+15:26 08/23/2018 NOW RUNNING CWT v1.3
+15:26 08/23/2018 String index out of range: 1
+15:26 08/23/2018 Oracle DB driver found
+15:26 08/23/2018 Error Code 002 - Connection to DB failed
+15:26 08/23/2018 No suitable driver found for 
+15:27 08/23/2018 NOW RUNNING CWT v1.3
+15:27 08/23/2018 Oracle DB driver found
+15:27 08/23/2018 Connected to DB
+15:27 08/23/2018 Error Code 007 - Error Executing getDuration Statement
+15:27 08/23/2018 Result set after last row
+15:46 08/23/2018 NOW RUNNING CWT v1.4
+15:46 08/23/2018 Error Code 010 - Error reading data from CWT_Config.txt
+15:46 08/23/2018 CWT_Config.txt (The system cannot find the file specified)
+15:46 08/23/2018 Oracle DB driver found
+15:46 08/23/2018 Error Code 002 - Connection to DB failed
+15:46 08/23/2018 No suitable driver found for 
+15:46 08/23/2018 NOW RUNNING CWT v1.4
+15:46 08/23/2018 Oracle DB driver found
+15:46 08/23/2018 Connected to DB
+16:03 08/23/2018 NOW RUNNING CWT v1.4
+16:03 08/23/2018 Oracle DB driver found
+16:03 08/23/2018 Connected to DB
